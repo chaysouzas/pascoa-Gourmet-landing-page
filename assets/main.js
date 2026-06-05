@@ -2,7 +2,7 @@
 const initEasterPage = () => {
     
     // --- 1. CRONÔMETRO ---
-    const targetDate = new Date("April 02, 2026 23:59:59").getTime();
+    const targetDate = new Date("May 31, 2028 23:59:59").getTime();
     const countdownContainer = document.querySelector(".urgency-bar");
 
     const updateCountdown = () => {
